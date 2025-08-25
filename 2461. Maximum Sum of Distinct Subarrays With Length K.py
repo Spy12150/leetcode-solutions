@@ -1,5 +1,7 @@
 test_case = [1,2,3,4,5]
 
+# not finished yet, rewriting
+
 """def two_pass(array):
     left_array = [1]*len(array)
     right_array = [1]*len(array)
@@ -33,4 +35,5 @@ def two_pass_2(array):
     return res
 
 print(two_pass_2(test_case))
+        
         
